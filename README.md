@@ -2,7 +2,7 @@
 
 ## You can reach me: :eyes:
 - email: voronskayad@gmail.com
-- telegramm: https://t.me/tulen_programmist
+- telegram: https://t.me/tulen_programmist
 
 ## About me
 
@@ -15,11 +15,11 @@
 - languages: Kotlin, Java
 - Remote: Firebase (Storage, Firestore, Auth), Retrofit, Volley
 - Data persistence: Sqlite, Room, Paging;
-- DI: Hilt
+- DI: Hilt, Dagger2
 - Concurrency: RxJava, Coroutines;
-- Testing: Unit, instrumental: Mockito-kotlin, JUnit4, Awaility, UI: kaespresso
+- Testing: Unit, instrumental: Mockito-kotlin, JUnit4, Awaility, UI: Kaespresso
 - Background: Work manager;
-- Others: Compose, ViewBinding, DataBinding, Navigation Components, Timber, Gson, SpeechToText, TextToSpeech, glide, picasso, fresco, exoplayer, lottie, customViews, Google maps
+- Others: Compose, ViewBinding, DataBinding, Navigation Components, Timber, Gson, SpeechToText, TextToSpeech, Glide, Picasso, Fresco, Exoplayer, Lottie, CustomViews, Google maps
 - Architecture: MVVM (ViewModels + LiveData)
 
 #### Soft skills
